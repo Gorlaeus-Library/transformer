@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf8'?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"> <marc:record xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <marc:leader>     nam  22     uu 4500</marc:leader>
+   <marc:controlfield tag="008">      s   |||||||||||||||||en||</marc:controlfield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Jong, M.J.M. de </marc:subfield>
+      <marc:subfield code="4">aut</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Slütter, B. </marc:subfield>
+      <marc:subfield code="4">dgs</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kuiper, J. </marc:subfield>
+      <marc:subfield code="4">dgs</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Irth, H. </marc:subfield>
+      <marc:subfield code="e">Committee member</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lange, E.C.M. de </marc:subfield>
+      <marc:subfield code="e">Committee member</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lutgens, E. </marc:subfield>
+      <marc:subfield code="e">Committee member</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Campos Ramos, G. </marc:subfield>
+      <marc:subfield code="e">Committee member</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Megens, R.T.A. </marc:subfield>
+      <marc:subfield code="e">Committee member</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">CD8+ T-cells in atherosclerosis</marc:subfield>
+      <marc:subfield code="b">recognizing their contribution</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Leiden University</marc:subfield>
+      <marc:subfield code="u">https://ror.org/027bh9e22</marc:subfield>
+      <marc:subfield code="b">Faculty of Science</marc:subfield>
+      <marc:subfield code="b">Leiden Academic Centre for Drug Research (LACDR)</marc:subfield>
+      <marc:subfield code="4">dgg</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789465103884</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="041" ind1="0" ind2=" ">
+      <marc:subfield code="a">en</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="546" ind1=" " ind2=" ">
+      <marc:subfield code="b">en</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="046" ind1=" " ind2=" ">
+      <marc:subfield code="k">2025</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="c">2025-01-23</marc:subfield>
+      <marc:subfield code="g">2025</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Doctoral Thesis</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">info:eu-repo/semantics/doctoralThesis</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Cardiovascular disease</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Atherosclerosis</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">T-cells</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">CD8+ T-cells</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Antigen recognition</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">ApoB100</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">T-cell subsets</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">T-cell activation</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&lt;p&gt;Atherosclerosis is the most prominent underlying pathology of cardiovascular disease and an important cause of major adverse cardiovascular events. Chronic inflammation drives growth and destabilization of atherosclerotic plaques. Recent single-cell technologies demonstrated that T-cells, including CD4+ and CD8+ T-cells, form a major immune population within human and mouse atherosclerotic lesions. These T-cells show signs of recent TCR activation, and clonal expansion, suggesting an autoimmune component in the progression of atherosclerosis. Although CD4+ T-cells have been widely studied in the context of atherosclerosis, understanding the implications of CD8+ T-cells in disease progression has proven to be more challenging, due to inconsistent findings. This thesis focuses on elucidating the effects of different CD8+ T-cell subsets, and their potential targets, within the atherosclerotic lesion. &lt;br&gt;&lt;/p&gt;</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="773" ind1="0" ind2=" ">
+      <marc:subfield code="d" />
+   </marc:datafield>
+   <marc:datafield tag="536" ind1=" " ind2=" ">
+      <marc:subfield code="a">Dutch Heart Foundation;
+European Research Area Network on Cardiovascular Diseases</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1="0" ind2="7">
+      <marc:subfield code="a">Biopharmaceutics</marc:subfield>
+      <marc:subfield code="2">Research Area</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="024" ind1=" " ind2=" ">
+      <marc:subfield code="a">1340352405</marc:subfield>
+      <marc:subfield code="2">lucris-id</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Converted from MODS 3.7 to MARCXML using MODS3-7_MARC21slim_XSLT2-0.xsl (Revision Rutger 20250116-001)</marc:subfield>
+   </marc:datafield>
+<controlfield tag="001">4177209</controlfield></marc:record><marc:record xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"> <marc:leader>     nam  22     uu 4500</marc:leader>
+   <controlfield tag="001">4177209</controlfield><marc:controlfield tag="008">      s   |||||||||||||||||en||</marc:controlfield>
+   <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">CD8+ T-cells in atherosclerosis</marc:subfield>
+      <marc:subfield code="b">recognizing their contribution</marc:subfield>
+   </marc:datafield>
+   <datafield tag="856" ind1="4" ind2=" "><subfield code="a">01. Cover</subfield><subfield code="u">item_4177210_OBJ.pdf</subfield><subfield code="l">info:eu-repo/semantics/openAccess</subfield><subfield code="r">https://hdl.handle.net/1887/license:5</subfield><subfield code="z">version:Publisher's Version</subfield><subfield code="g">fileid:1340352951</subfield></datafield></marc:record><marc:record xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"> <marc:leader>     nam  22     uu 4500</marc:leader>
+   <controlfield tag="001">4177209</controlfield><marc:controlfield tag="008">      s   |||||||||||||||||en||</marc:controlfield>
+   <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">CD8+ T-cells in atherosclerosis</marc:subfield>
+      <marc:subfield code="b">recognizing their contribution</marc:subfield>
+   </marc:datafield>
+   <datafield tag="856" ind1="4" ind2=" "><subfield code="a">01. Full text</subfield><subfield code="u">item_4177211_OBJ.pdf</subfield><subfield code="l">info:eu-repo/semantics/embargoedAccess</subfield><subfield code="z">embargo:2026-07-23</subfield><subfield code="r">https://hdl.handle.net/1887/license:5</subfield><subfield code="z">version:Publisher's Version</subfield><subfield code="g">fileid:1340353177</subfield></datafield></marc:record><marc:record xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"> <marc:leader>     nam  22     uu 4500</marc:leader>
+   <controlfield tag="001">4177209</controlfield><marc:controlfield tag="008">      s   |||||||||||||||||en||</marc:controlfield>
+   <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">CD8+ T-cells in atherosclerosis</marc:subfield>
+      <marc:subfield code="b">recognizing their contribution</marc:subfield>
+   </marc:datafield>
+   <datafield tag="856" ind1="4" ind2=" "><subfield code="a">01. Title Pages_Contents</subfield><subfield code="u">item_4177212_OBJ.pdf</subfield><subfield code="l">info:eu-repo/semantics/openAccess</subfield><subfield code="r">https://hdl.handle.net/1887/license:5</subfield><subfield code="z">version:Publisher's Version</subfield><subfield code="g">fileid:1340353065</subfield></datafield></marc:record><marc:record xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"> <marc:leader>     nam  22     uu 4500</marc:leader>
+   <controlfield tag="001">4177209</controlfield><marc:controlfield tag="008">      s   |||||||||||||||||en||</marc:controlfield>
+   <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">CD8+ T-cells in atherosclerosis</marc:subfield>
+      <marc:subfield code="b">recognizing their contribution</marc:subfield>
+   </marc:datafield>
+   <datafield tag="856" ind1="4" ind2=" "><subfield code="a">01. Chapter 1</subfield><subfield code="u">item_4177213_OBJ.pdf</subfield><subfield code="l">info:eu-repo/semantics/openAccess</subfield><subfield code="r">https://hdl.handle.net/1887/license:5</subfield><subfield code="z">version:Publisher's Version</subfield><subfield code="g">fileid:1340353037</subfield></datafield></marc:record><marc:record xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"> <marc:leader>     nam  22     uu 4500</marc:leader>
+   <controlfield tag="001">4177209</controlfield><marc:controlfield tag="008">      s   |||||||||||||||||en||</marc:controlfield>
+   <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">CD8+ T-cells in atherosclerosis</marc:subfield>
+      <marc:subfield code="b">recognizing their contribution</marc:subfield>
+   </marc:datafield>
+   <datafield tag="856" ind1="4" ind2=" "><subfield code="a">01. Chapter 2</subfield><subfield code="u">item_4177214_OBJ.pdf</subfield><subfield code="l">info:eu-repo/semantics/openAccess</subfield><subfield code="r">https://hdl.handle.net/1887/license:5</subfield><subfield code="z">version:Publisher's Version</subfield><subfield code="g">fileid:1340353121</subfield></datafield></marc:record><marc:record xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"> <marc:leader>     nam  22     uu 4500</marc:leader>
+   <controlfield tag="001">4177209</controlfield><marc:controlfield tag="008">      s   |||||||||||||||||en||</marc:controlfield>
+   <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">CD8+ T-cells in atherosclerosis</marc:subfield>
+      <marc:subfield code="b">recognizing their contribution</marc:subfield>
+   </marc:datafield>
+   <datafield tag="856" ind1="4" ind2=" "><subfield code="a">01. Chapter 3</subfield><subfield code="u">item_4177215_OBJ.pdf</subfield><subfield code="l">info:eu-repo/semantics/openAccess</subfield><subfield code="r">https://hdl.handle.net/1887/license:5</subfield><subfield code="z">version:Publisher's Version</subfield><subfield code="g">fileid:1340353149</subfield></datafield></marc:record><marc:record xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"> <marc:leader>     nam  22     uu 4500</marc:leader>
+   <controlfield tag="001">4177209</controlfield><marc:controlfield tag="008">      s   |||||||||||||||||en||</marc:controlfield>
+   <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">CD8+ T-cells in atherosclerosis</marc:subfield>
+      <marc:subfield code="b">recognizing their contribution</marc:subfield>
+   </marc:datafield>
+   <datafield tag="856" ind1="4" ind2=" "><subfield code="a">01. Chapter 4</subfield><subfield code="u">item_4177216_OBJ.pdf</subfield><subfield code="l">info:eu-repo/semantics/embargoedAccess</subfield><subfield code="z">embargo:2026-07-23</subfield><subfield code="r">https://hdl.handle.net/1887/license:5</subfield><subfield code="z">version:Publisher's Version</subfield><subfield code="g">fileid:1340353009</subfield></datafield></marc:record><marc:record xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"> <marc:leader>     nam  22     uu 4500</marc:leader>
+   <controlfield tag="001">4177209</controlfield><marc:controlfield tag="008">      s   |||||||||||||||||en||</marc:controlfield>
+   <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">CD8+ T-cells in atherosclerosis</marc:subfield>
+      <marc:subfield code="b">recognizing their contribution</marc:subfield>
+   </marc:datafield>
+   <datafield tag="856" ind1="4" ind2=" "><subfield code="a">01. Chapter 5</subfield><subfield code="u">item_4177217_OBJ.pdf</subfield><subfield code="l">info:eu-repo/semantics/openAccess</subfield><subfield code="r">https://hdl.handle.net/1887/license:5</subfield><subfield code="z">version:Publisher's Version</subfield><subfield code="g">fileid:1340353233</subfield></datafield></marc:record><marc:record xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"> <marc:leader>     nam  22     uu 4500</marc:leader>
+   <controlfield tag="001">4177209</controlfield><marc:controlfield tag="008">      s   |||||||||||||||||en||</marc:controlfield>
+   <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">CD8+ T-cells in atherosclerosis</marc:subfield>
+      <marc:subfield code="b">recognizing their contribution</marc:subfield>
+   </marc:datafield>
+   <datafield tag="856" ind1="4" ind2=" "><subfield code="a">01. Chapter 6</subfield><subfield code="u">item_4177218_OBJ.pdf</subfield><subfield code="l">info:eu-repo/semantics/embargoedAccess</subfield><subfield code="z">embargo:2026-07-23</subfield><subfield code="r">https://hdl.handle.net/1887/license:5</subfield><subfield code="z">version:Publisher's Version</subfield><subfield code="g">fileid:1340353093</subfield></datafield></marc:record><marc:record xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"> <marc:leader>     nam  22     uu 4500</marc:leader>
+   <controlfield tag="001">4177209</controlfield><marc:controlfield tag="008">      s   |||||||||||||||||en||</marc:controlfield>
+   <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">CD8+ T-cells in atherosclerosis</marc:subfield>
+      <marc:subfield code="b">recognizing their contribution</marc:subfield>
+   </marc:datafield>
+   <datafield tag="856" ind1="4" ind2=" "><subfield code="a">01. Chapter 7</subfield><subfield code="u">item_4177219_OBJ.pdf</subfield><subfield code="l">info:eu-repo/semantics/openAccess</subfield><subfield code="r">https://hdl.handle.net/1887/license:5</subfield><subfield code="z">version:Publisher's Version</subfield><subfield code="g">fileid:1340352923</subfield></datafield></marc:record><marc:record xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"> <marc:leader>     nam  22     uu 4500</marc:leader>
+   <controlfield tag="001">4177209</controlfield><marc:controlfield tag="008">      s   |||||||||||||||||en||</marc:controlfield>
+   <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">CD8+ T-cells in atherosclerosis</marc:subfield>
+      <marc:subfield code="b">recognizing their contribution</marc:subfield>
+   </marc:datafield>
+   <datafield tag="856" ind1="4" ind2=" "><subfield code="a">01. List of Publications_Curriculum Vitae_PhD Portfolio</subfield><subfield code="u">item_4177220_OBJ.pdf</subfield><subfield code="l">info:eu-repo/semantics/openAccess</subfield><subfield code="r">https://hdl.handle.net/1887/license:5</subfield><subfield code="z">version:Publisher's Version</subfield><subfield code="g">fileid:1340352979</subfield></datafield></marc:record><marc:record xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"> <marc:leader>     nam  22     uu 4500</marc:leader>
+   <controlfield tag="001">4177209</controlfield><marc:controlfield tag="008">      s   |||||||||||||||||en||</marc:controlfield>
+   <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">CD8+ T-cells in atherosclerosis</marc:subfield>
+      <marc:subfield code="b">recognizing their contribution</marc:subfield>
+   </marc:datafield>
+   <datafield tag="856" ind1="4" ind2=" "><subfield code="a">01. Propositions</subfield><subfield code="u">item_4177221_OBJ.pdf</subfield><subfield code="l">info:eu-repo/semantics/openAccess</subfield><subfield code="r">https://hdl.handle.net/1887/license:5</subfield><subfield code="z">version:Publisher's Version</subfield><subfield code="g">fileid:1340353205</subfield></datafield></marc:record></marc:collection>
