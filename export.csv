@@ -1,0 +1,16 @@
+﻿item_id;parent_id;mods_file_name;obj_file_name;child_title;access_code;access_use;version;identifier_local;identifier_doi;embargo_date
+4177209;;item_4177209_MODS.xml;;;;;;;;
+4175194;;item_4175194_MODS.xml;;;;;;;;
+4177210;4177209;item_4177210_MODS.xml;item_4177210_OBJ.pdf;Cover;info:eu-repo/semantics/openAccess;https://hdl.handle.net/1887/license:5;Publisher's Version;fileid:1340352951;;
+4177211;4177209;item_4177211_MODS.xml;item_4177211_OBJ.pdf;Full text;info:eu-repo/semantics/embargoedAccess;https://hdl.handle.net/1887/license:5;Publisher's Version;fileid:1340353177;;"2026-07-23"
+4177212;4177209;item_4177212_MODS.xml;item_4177212_OBJ.pdf;Title Pages_Contents;info:eu-repo/semantics/openAccess;https://hdl.handle.net/1887/license:5;Publisher's Version;fileid:1340353065;;
+4177213;4177209;item_4177213_MODS.xml;item_4177213_OBJ.pdf;Chapter 1;info:eu-repo/semantics/openAccess;https://hdl.handle.net/1887/license:5;Publisher's Version;fileid:1340353037;;
+4177214;4177209;item_4177214_MODS.xml;item_4177214_OBJ.pdf;Chapter 2;info:eu-repo/semantics/openAccess;https://hdl.handle.net/1887/license:5;Publisher's Version;fileid:1340353121;https://doi.org/10.1093/cvr/cvaa286;
+4177215;4177209;item_4177215_MODS.xml;item_4177215_OBJ.pdf;Chapter 3;info:eu-repo/semantics/openAccess;https://hdl.handle.net/1887/license:5;Publisher's Version;fileid:1340353149;https://doi.org/10.1161/ATVBAHA.123.320511;
+4177216;4177209;item_4177216_MODS.xml;item_4177216_OBJ.pdf;Chapter 4;info:eu-repo/semantics/embargoedAccess;https://hdl.handle.net/1887/license:5;Publisher's Version;fileid:1340353009;;"2026-07-23"
+4177217;4177209;item_4177217_MODS.xml;item_4177217_OBJ.pdf;Chapter 5;info:eu-repo/semantics/openAccess;https://hdl.handle.net/1887/license:5;Publisher's Version;fileid:1340353233;https://doi.org/10.1161/ATVBAHA.123.320511;
+4177218;4177209;item_4177218_MODS.xml;item_4177218_OBJ.pdf;Chapter 6;info:eu-repo/semantics/embargoedAccess;https://hdl.handle.net/1887/license:5;Publisher's Version;fileid:1340353093;;"2026-07-23"
+4177219;4177209;item_4177219_MODS.xml;item_4177219_OBJ.pdf;Chapter 7;info:eu-repo/semantics/openAccess;https://hdl.handle.net/1887/license:5;Publisher's Version;fileid:1340352923;;
+4177220;4177209;item_4177220_MODS.xml;item_4177220_OBJ.pdf;List of Publications_Curriculum Vitae_PhD Portfolio;info:eu-repo/semantics/openAccess;https://hdl.handle.net/1887/license:5;Publisher's Version;fileid:1340352979;;
+4177221;4177209;item_4177221_MODS.xml;item_4177221_OBJ.pdf;Propositions;info:eu-repo/semantics/openAccess;https://hdl.handle.net/1887/license:5;Publisher's Version;fileid:1340353205;;
+4175195;4175194;item_4175195_MODS.xml;item_4175195_OBJ.pdf;Full text;info:eu-repo/semantics/embargoedAccess;https://hdl.handle.net/1887/license:4;Accepted Manuscript;fileid:1339701337;https://doi.org/10.1016/j.jhazmat.2024.137034;2025-09-15
