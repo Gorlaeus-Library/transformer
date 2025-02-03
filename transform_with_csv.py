@@ -131,8 +131,7 @@ for index, row in inventory_parents.iterrows():
 
             # retrieve obj file if needed
             extension = get_extension_for_mimetype(child_row['obj_mimetype'])
-            obj_filename = os.path.join(input_dir,
-                                                    str(child_row['item_id']).replace(':', '_') + '_OBJ.' + extension)
+            obj_filename = str(child_row['item_id']).replace(':', '_') + '_OBJ.' + extension
             retrieve_file_from_fedora_server(str(child_row['obj_fedora_filepath']), obj_filename)
 
             # filename
