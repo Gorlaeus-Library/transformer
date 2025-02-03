@@ -120,13 +120,9 @@ for index, row in inventory_parents.iterrows():
             file_block.set("ind2", " ")
 
             # label
-            counter_text = ""
-            if file_counter < 10:
-                counter_text = "0"
-            counter_text = counter_text + str(file_counter) + ". "
             file_block_label = ET.Element("marc:subfield")
             file_block_label.set("code", "a")
-            file_block_label.text = counter_text + child_row['title']
+            file_block_label.text = "{:02d}. {!s}".format(file_counter, child_row['title'])
             file_block.append(file_block_label)
 
             # retrieve obj file if needed
