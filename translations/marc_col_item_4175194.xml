@@ -1,0 +1,83 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"> <marc:record xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <marc:leader>     nam  22     uu 4500</marc:leader>
+   <marc:controlfield tag="008">      s   |||||||||||||||||en||</marc:controlfield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Debroy, A. </marc:subfield>
+      <marc:subfield code="4">aut</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Sinha, A.K. </marc:subfield>
+      <marc:subfield code="4">aut</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Maity, C. </marc:subfield>
+      <marc:subfield code="4">aut</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Pulimi, M. </marc:subfield>
+      <marc:subfield code="4">aut</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Peijnenburg, W.J.G.M. </marc:subfield>
+      <marc:subfield code="4">aut</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Mukherjee, A. </marc:subfield>
+      <marc:subfield code="4">aut</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">In-situ and ex-situ EPS-corona formation on ZnO QDs mitigates their environmental toxicity in the freshwater microalgae Chlorella sp.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="041" ind1="0" ind2=" ">
+      <marc:subfield code="a">en</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="546" ind1=" " ind2=" ">
+      <marc:subfield code="b">en</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="046" ind1=" " ind2=" ">
+      <marc:subfield code="k">2025</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="c">2025-03-15</marc:subfield>
+      <marc:subfield code="g">2025</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Article / Letter to editor</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">info:eu-repo/semantics/article</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&lt;p&gt;The current work seeks to understand how the interactions between ZnO QDs and extracellular polymeric substances (EPS) may vary based on the types of EPS (loosely and tightly bound) and modes of eco-corona formation (&lt;em&gt;In-situ&lt;/em&gt; or &lt;em&gt;ex-situ&lt;/em&gt;). &lt;em&gt;In-situ&lt;/em&gt; eco-corona refers to formation of an EPS layer on the QDs during the interactions with the algae whereas the &lt;em&gt;ex-situ&lt;/em&gt; condition refers to forming the layer before the interactions. ZnO QDs were added at 0.25, 0.5, and 1.0 mg/L concentrations for pristine, &lt;em&gt;in-situ&lt;/em&gt;, and &lt;em&gt;ex-situ&lt;/em&gt; corona treatments with the cells. Pristine ZnO QDs induced significant oxidative stress in algal cells, as evident from increased levels of reactive oxygen species (ROS), malondialdehyde (MDA), superoxide dismutase (SOD), and catalase activity. This decreased the photosynthetic efficiency and caused significant growth inhibition in algae. In contrast, both the &lt;em&gt;in-situ&lt;/em&gt; and &lt;em&gt;ex-situ&lt;/em&gt; corona treatments with loosely bound and tightly bound EPS reduced the oxidative stress, improved the photosynthetic efficiency, and diminished growth inhibition effects. This study asserts the importance of EPS in reducing the toxicity of ZnO QDs, while maintaining the fluorescence activity. This ensures the sustainable usage of the ZnO QDs without any harm to aquatic ecosystems.&lt;br&gt;&lt;/p&gt;</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="773" ind1="0" ind2=" ">
+      <marc:subfield code="g">volume:486</marc:subfield>
+      <marc:subfield code="d">Elsevier BV</marc:subfield>
+      <marc:subfield code="q">486:137034&lt;</marc:subfield>
+      <marc:subfield code="t">Journal of Hazardous Materials</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="856" ind1=" " ind2=" ">
+      <marc:subfield code="u">https://www.sciencedirect.com/science/article/abs/pii/S030438942403615X?via%3Dihub</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1="0" ind2="7">
+      <marc:subfield code="a">Environmental Biology</marc:subfield>
+      <marc:subfield code="2">Research Area</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="024" ind1=" " ind2=" ">
+      <marc:subfield code="a">doi:10.1016/j.jhazmat.2024.137034</marc:subfield>
+      <marc:subfield code="2">doi</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="024" ind1=" " ind2=" ">
+      <marc:subfield code="a">1339701011</marc:subfield>
+      <marc:subfield code="2">lucris-id</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Converted from MODS 3.7 to MARCXML using MODS3-7_MARC21slim_XSLT2-0.xsl (Revision Rutger 20250116-001)</marc:subfield>
+   </marc:datafield>
+<marc:controlfield tag="001">item:4175194</marc:controlfield></marc:record><marc:record xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"> <marc:leader>     nam  22     uu 4500</marc:leader>
+   <marc:controlfield tag="001">item:4175194</marc:controlfield><marc:controlfield tag="008">      s   |||||||||||||||||en||</marc:controlfield>
+   <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">In-situ and ex-situ EPS-corona formation on ZnO QDs mitigates their environmental toxicity in the freshwater microalgae Chlorella sp.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="856" ind1="4" ind2=" "><marc:subfield code="a">01. Full text</marc:subfield><marc:subfield code="u">alles_in_1\item_4175195_OBJ.pdf</marc:subfield><marc:subfield code="l">info:eu-repo/semantics/embargoedAccess</marc:subfield><marc:subfield code="z">embargo:2025-09-15</marc:subfield><marc:subfield code="r">https://hdl.handle.net/1887/license:4</marc:subfield><marc:subfield code="z">version:Accepted Manuscript</marc:subfield><marc:subfield code="g">1339701337</marc:subfield></marc:datafield></marc:record></marc:collection>
