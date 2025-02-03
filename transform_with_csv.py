@@ -189,6 +189,7 @@ for index, row in inventory_parents.iterrows():
 
             # add child to collection
             collection_root.append(child_root)
+            file_counter = file_counter + 1
 
         # now save the output
         filename_output = "marc_col_" + str(row['item_id']).replace(':', '_') + ".xml"
